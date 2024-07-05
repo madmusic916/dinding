@@ -1,0 +1,13 @@
+[
+  {
+    "question": "How many legs does a cat have?",
+    "options": ["A. Two", "B. One", "C. Four", "D. Three"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["A. Berlin", "B. London", "C. Paris", "D. Rome"],
+    "correctAnswer": "C"
+  }
+  // Add more questions as needed
+]
