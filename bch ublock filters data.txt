@@ -1,0 +1,42 @@
+! 2023-10-30 httpsadbch.top
+adbch.top##.center.z-depth-3.card
+adbch.topstaticHomepageimgblockchain2.jpg$image
+adbch.top##.container  .section
+adbch.top##.z-depth-2.white-text.light-blue.row
+adbch.top##.no-margin.section  div.m6.s12.col
+adbch.top##.light-blue.page-footer
+
+! 2023-10-30 httpscatcut.net
+architime.rustop10_benches.htm$subdocument
+
+! 2023-10-30 httpsarchitime.ru
+architime.ru##body  div
+
+! 2023-10-30 httpsncertstudy.in
+ncertstudy.in##.adb-overlay
+
+! 2023-10-31 httpsncertstudy.in
+ncertstudy.in##.site
+
+! 2023-11-11 httpsgplinks.co
+gplinks.co##.adb-overlay
+
+! 2023-11-15 httpshightrip.net
+hightrip.netwp-contentuploads202310Tourism-in-Egypt-and-The-Stylish-Cities-Worth-Visiting-Giza-and-Alexandria-1130x580.jpg$image
+hightrip.net##.main-section.row
+hightrip.netwp-contentuploads202310Tourism-in-Egypt-and-The-Stylish-Cities-Worth-Visiting-Giza-and-Alexandria-1130x580.jpg$image
+
+! 2023-11-15 httpsfx-gd.net
+fx-gd.net##.post-template-1.layout-right-sidebar.layout-2-col-1.layout-2-col.container
+
+! 2023-11-15 httpshealthy4pepole.com
+healthy4pepole.com##.content-column.col-sm-8
+healthy4pepole.com##.main-section.row
+
+! 2023-11-15 httpsblogtechh.com
+blogtechh.comwp-contentuploads202008Do-you-need-Life-Insurance-after-Retirement.jpg$image
+blogtechh.com##.td-main-sidebar.td-pb-span4
+blogtechh.comwp-contentuploads202008Do-you-need-Life-Insurance-after-Retirement.jpg$image
+blogtechh.com##pnth-of-type(1)
+blogtechh.com#@#.td-post-template-default.td-container  .td-pb-row
+
