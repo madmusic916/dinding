@@ -5,5 +5,11 @@
     "description": "An amazing book about Android development.",
     "link": "https://drive.google.com/uc?export=download&id=1tCD9_GJ0XYYG35HwJzUyUNCdlC3d2CG1",
     "coverImage": "https://drive.google.com/uc?export=view&id=1LQDOjVGmmlllsHVBtBaDUQCfxkEsPVp9"
-  }
+  },
+  {
+    "id": "2",
+    "title": "Book 2",
+    "description": "A comprehensive guide to modern web development.",
+    "link": "https://drive.google.com/uc?export=download&id=1ZFkOpTYKHooiWSjEZIpgnnQArY-CsDPo",
+    "coverImage": "https://drive.google.com/uc?export=view&id=1mvZecfSo_OgWDnPHyhXIfGxeq7yUrj-E"
 ]
