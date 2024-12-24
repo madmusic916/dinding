@@ -1,23 +1,16 @@
 [
   {
     "id": "1",
-    "title": "Book 1",
-    "description": "An amazing book about Android development.",
-    "link": "https://drive.google.com/uc?export=download&id=1tCD9_GJ0XYYG35HwJzUyUNCdlC3d2CG1",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1LQDOjVGmmlllsHVBtBaDUQCfxkEsPVp9"
+    "title": "జీవశాస్త్ర పరిచయం",
+    "description": "పోటీ పరీక్షలకు సిద్దపడేవారు చదవలసిన పుస్తకాలలో బయాలజీ తరుపున ఇది మొదటి పుస్తకం.",
+    "link": "https://drive.google.com/uc?export=download&id=1eByMP0qGNNFrHfC6xSJfHK7BnU8JLqKg",
+    "coverImage": "https://drive.google.com/uc?export=view&id=1cD77LneEMhvh9XrpMc8pbknv9rK1W4-w"
   };
   {
     "id": "2",
-    "title": "Book 2",
-    "description": "A comprehensive guide to modern web development.",
-    "link": "https://drive.google.com/uc?export=download&id=1ZFkOpTYKHooiWSjEZIpgnnQArY-CsDPo",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1mvZecfSo_OgWDnPHyhXIfGxeq7yUrj-E"
-  };
-  {
-    "id": "3",
-    "title": "Book 3",
-    "description": "Keerthi suresh book.",
-    "link": "https://drive.google.com/uc?export=download&id=1ak36lKbbzbMGQmwavsTw_GognjJF0IXb",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1G-MdCvQ4Qk6cYVNs5EABMcELx0eoJxiP"
+    "title": "మొక్కలు",
+    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, మొక్కల యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
+    "link": "https://drive.google.com/uc?export=download&id=1bfn4yKLAPXWqUouf_1M5y8eJ18rXwKkI",
+    "coverImage": "https://drive.google.com/uc?export=view&id=1LQDOjVGmmlllsHVBtBaDUQCfxkEsPVp9"
   }
 ]
