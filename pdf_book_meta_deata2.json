@@ -2,50 +2,57 @@
   {
     "id": "1",
     "title": "జీవశాస్త్ర పరిచయం",
-    "description": "పోటీ పరీక్షలకు సిద్దపడేవారు చదవలసిన పుస్తకాలలో బయాలజీ తరుపున ఇది మొదటి పుస్తకం.",
-    "link": "https://drive.google.com/uc?export=download&id=1eByMP0qGNNFrHfC6xSJfHK7BnU8JLqKg",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1cD77LneEMhvh9XrpMc8pbknv9rK1W4-w"
-  };
+    "description": "పోటీ పరీక్షలకు సిద్ధమయ్యే అభ్యర్థుల కోసం, జీవశాస్త్రంలోని ప్రాథమిక సూత్రాలు మరియు ఆధారభూతమైన అంశాలను సమగ్ర వివరణ.",
+    "link": "https://drive.google.com/uc?export=download&id=1TnvSC0FO_mKuCAb8cgS2tEkKHWa5Uo5O",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186553/%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0_%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%9A%E0%B0%AF%E0%B0%82_offky5.jpg"
+   
+  },
   {
     "id": "2",
     "title": "మొక్కలు",
-    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, మొక్కల యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
-    "link": "https://drive.google.com/uc?export=download&id=1bfn4yKLAPXWqUouf_1M5y8eJ18rXwKkI",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1LQDOjVGmmlllsHVBtBaDUQCfxkEsPVp9"
-  };
+    "description": "మొక్కల నిర్మాణం, వర్గీకరణ, జీవచక్రం మరియు శారీరక ప్రక్రియలపై విశదమైన వివరణ.",
+    "link": "https://drive.google.com/uc?export=download&id=1BuceG1QIYz3RcA_w3UEel_0T-Puq1ztP",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186554/%E0%B0%AE%E0%B1%8A%E0%B0%95%E0%B1%8D%E0%B0%95%E0%B0%B2%E0%B1%81_tecij8.jpg"
+   
+  },
   {
     "id": "3",
     "title": "జంతువులు",
-    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, జంతువులు యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
-    "link": "https://drive.google.com/uc?export=download&id=1mU6Q2fOkJRePnipAT3-TkOc769uZcBhB",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1da39NC8RWRcvK93866OSAVMSKLHDuWsL"
-  };
+    "description": "జంతు రాజ్యం, వాటి వర్గీకరణ, జీవవికాసం మరియు శారీరక లక్షణాలపై సమగ్ర సమాచారం.",
+    "link": "https://drive.google.com/uc?export=download&id=1GUEJq1MBBlpMprKeaI0HunnXEbyL3M36",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186555/%E0%B0%9C%E0%B0%82%E0%B0%A4%E0%B1%81%E0%B0%B5%E0%B1%81%E0%B0%B2%E0%B1%81_nbl3h5.jpg"
+    
+  },
   {
     "id": "4",
     "title": "చరిత్ర పరిచయం",
-    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, చరిత్ర పరిచయం, ప్రాచీన శిలాయుగం, మధ్య శిలాయుగం, నవీన శిలాయుగం, లోహయుగం యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
-    "link": "https://drive.google.com/uc?export=download&id=16UsSoX0ckBP4KSqxObi9w0Uat_Sxwmgi",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1eDujfv2VIr3W7f4cxyKPOph-uduri-Vx"
-  };
+    "description": "ప్రాచీన, మధ్య, నవీన శిలాయుగాలు మరియు లోహయుగం వరకు మానవ చరిత్ర అభివృద్ధి పై విపులమైన అవగాహన.",
+    "link": "https://drive.google.com/uc?export=download&id=1_BtZktxoxrFthEWm0lYCidJqyo3dVWpV",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186554/%E0%B0%9A%E0%B0%B0%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%B0_%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%9A%E0%B0%AF%E0%B0%82_nnbxqp.jpg"
+    
+  },
   {
     "id": "5",
     "title": "సింధు నాగరికత",
-    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, సింధు నాగరికత యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
-    "link": "https://drive.google.com/uc?export=download&id=1DLHWGioVGAwnbwvB8giA0Z_qqKX2e4jd",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1ebVO2jPsOQN6jiIyBWTZ1iMQ0pievUGF"
-  };
+    "description": "సింధు లోయ నాగరికత యొక్క ఆవిర్భావం, పట్టణ నిర్మాణం, వాణిజ్యం, కళలు మరియు సాంస్కృతిక వారసత్వంపై విశ్లేషణాత్మక వివరణ.",
+    "link": "https://drive.google.com/uc?export=download&id=1owy3FXngSG7x8xMwB6IWnM-08GYCEWm8",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186557/%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%A7%E0%B1%81_%E0%B0%A8%E0%B0%BE%E0%B0%97%E0%B0%B0%E0%B0%BF%E0%B0%95%E0%B0%A4_dpx2a5.jpg"
+   
+  },
   {
     "id": "6",
     "title": "వైదిక యుగం",
-    "description": "ఈ పుస్తకం పోటీ పరీక్షలకు అవసరమయ్యే, వైదిక యుగం (ఆర్యుల నాగరికత) యొక్క సమగ్ర సమాచారం గురించి వివరిస్తుంది",
-    "link": "https://drive.google.com/uc?export=download&id=100AtGbpCIZTTXhQNcg3O25aErKTfGiUd",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1faLB4Y6QLL3tl29ssqMQgc-Xi21fL5yo"
-  };
+    "description": "ఆర్యుల నాగరికత, వైదిక సాహిత్యం, ఆచారాలు మరియు సామాజిక వ్యవస్థపై లోతైన అధ్యయనం.",
+    "link": "https://drive.google.com/uc?export=download&id=1mgg2DWga6m6EbFLDt4IYvMD3SDNfkaks",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186556/%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B0%BF%E0%B0%95_%E0%B0%AF%E0%B1%81%E0%B0%97%E0%B0%82_f5crts.jpg"
+   
+  },
   {
     "id": "7",
     "title": "జ్ఞానేంద్రియాలు",
-    "description": "ఈ పుస్తకంలో జ్ఞానేంద్రియాలు మరియు వాటి విధులు మరియు వాటి సంభంది రోగాల గురించి వివరించబడింది.",
-    "link": "https://drive.google.com/uc?export=download&id=1YVCdQ8mqtazScjoykn9_TEH2YdgLhOmE",
-    "coverImage": "https://drive.google.com/uc?export=view&id=1ismgbFrA3xYUgYzp3Nf_Luc9LaMjG5-q"
+    "description": "జ్ఞానేంద్రియాల నిర్మాణం, వాటి విధులు మరియు సంబంధిత వ్యాధులపై విశదమైన అవగాహన.",
+    "link": "https://drive.google.com/uc?export=download&id=1eA2jZqeTG5jdNVnqwQkIv-7wqXqdX8n0",
+    "coverImage": "https://res.cloudinary.com/dzcl7qarx/image/upload/v1755186556/%E0%B0%9C%E0%B1%8D%E0%B0%9E%E0%B0%BE%E0%B0%A8%E0%B1%87%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%B0%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B1%81_nlt07d.jpg"
+    
   }
 ]
